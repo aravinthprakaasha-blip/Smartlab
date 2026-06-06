@@ -1,0 +1,8 @@
+{
+  "name": "Smart Lab Inventory & Robotic Retrieval",
+  "description": "An AI-powered smart laboratory inventory, blood bank operations, and robotic sample retrieval management system for modern healthcare institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
